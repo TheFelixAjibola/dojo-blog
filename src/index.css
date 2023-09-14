@@ -56,6 +56,10 @@
   margin-bottom: 8px;
 }
 
+.blog-preview a {
+  text-decoration: none;
+}
+
 button {
   border-radius: 10px;
   background-color: #000;
