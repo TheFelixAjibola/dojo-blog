@@ -121,3 +121,36 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
+/* Not Found Pages */
+
+.not-found h2 {
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #f1356d;
+  margin-bottom: 30px;
+}
+
+.not-found hr {
+  margin-bottom: 20px;
+  border: 2px solid #ccc;
+}
+
+.not-found p {
+  margin: 20px 0;
+  font-size: 30px;
+}
+
+.not-found a {
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.not-found a:hover {
+  padding: 10px;
+  background: #000;
+  color: #fff;
+  opacity: 90%;
+  border-bottom: 2px #f1356d solid;
+  border-radius: 5px;
+}
