@@ -1,22 +1,40 @@
 {
-    "blogs": [
-        { 
-            "title": "My new website", 
-            "body": "lorem ipsum...", 
-            "author": "Felix", 
-            "id": 1 
-        },
-        { 
-            "title": "Welcome party", 
-            "body": "lorem ipsum...", 
-            "author": "Peace", 
-            "id": 2 
-        },
-        {
-          "title": "Web dev top tips",
-          "body": "lorem ipsum...",
-          "author": "Felix",
-          "id": 3
-        }
-      ]
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "lorem ipsum...",
+      "author": "Felix",
+      "id": 1
+    },
+    {
+      "title": "Welcome party",
+      "body": "lorem ipsum...",
+      "author": "Peace",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "lorem ipsum...",
+      "author": "Felix",
+      "id": 3
+    },
+    {
+      "title": "ThePFUnion2023",
+      "body": "Peace Weds Felix on the 11th of February, 2023.",
+      "author": "peace",
+      "id": 4
+    },
+    {
+      "title": "p's",
+      "body": "dsdsds",
+      "author": "Felix",
+      "id": 5
+    },
+    {
+      "title": "The Lord is Good",
+      "body": "All the time ",
+      "author": "Felix",
+      "id": 6
+    }
+  ]
 }
